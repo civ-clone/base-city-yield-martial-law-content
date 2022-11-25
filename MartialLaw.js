@@ -20,6 +20,7 @@ class MartialLaw extends Unhappiness_1.default {
         super(value, unit.id());
         _MartialLaw_unit.set(this, void 0);
         __classPrivateFieldSet(this, _MartialLaw_unit, unit, "f");
+        this.addKey('unit');
     }
     unit() {
         return __classPrivateFieldGet(this, _MartialLaw_unit, "f");

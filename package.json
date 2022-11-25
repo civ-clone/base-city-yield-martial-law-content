@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-city-yield-martial-law-content",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "git@github.com:civ-clone/base-city-yield-martial-law-content.git",
   "keywords": [
     "typescript",
